@@ -97,13 +97,13 @@
 <!-- Dự án 3:  -->
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       <h3> Project Name 3 - Watercolor Dreams</h3>
       <p>You can explore my full marker collection at the top right corner. The numbers 5-30 represent my favorite shadesvvvvvvvvvvvvvvvvvvvvvvvvvvvv.</p>
       <p><strong>Tech stack:</strong> Photoshop, Watercolor Techniques, Color Theory</p>
       <a href="#">🔗 View Project →</a>
     </td>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <!-- Phần màu tím từ ảnh của bạn -->
       <img src="https://i.imgur.com/ghi789purple.jpg" width="200" style="border-radius: 10px; border: 2px solid #9B59B6;">
     </td>
@@ -112,11 +112,11 @@
 <!-- Dự án 4-->
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <!-- Phần màu xanh từ ảnh của bạn -->
       <img src="https://i.imgur.com/def456blue.jpg" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
     </td>
-    <td width="60%">
+    <td width="70%">
       <h3> Project Name 2 - Marker Collection</h3>
       <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designs.</p>
       <p><strong>Tech stack:</strong> Figma, Adobe Color, Copic Markers</p>
