@@ -72,7 +72,7 @@
       <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
       <a href="#">🔗 View Project →</a>
     </td>
-    <td width="40%" align="center">
+    <td width="60%" align="center">
       <!-- Phần màu đỏ/cam từ ảnh của bạn -->
       <img src="https://i.imgur.com/abc123red.jpg" width="200" style="border-radius: 10px; border: 2px solid #FF6B6B;">
     </td>
