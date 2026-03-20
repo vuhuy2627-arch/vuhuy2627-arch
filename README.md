@@ -66,7 +66,7 @@
 <!-- Dự án 1 -->
 <table>
   <tr>
-    <td width="60%">
+    <td width="80%">
       <h3> Project Name 1 - Color Study</h3>
       <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
       <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
