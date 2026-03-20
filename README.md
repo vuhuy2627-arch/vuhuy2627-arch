@@ -62,7 +62,10 @@
 
 <br>
 <!-- https://icons8.com -->
-##  Projects 
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
 <!-- Dự án 1 -->
 <table width="100%">
   <tr>
