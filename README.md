@@ -63,7 +63,7 @@
 <br>
 <!-- https://icons8.com -->
 
-<!-- Dự án 1: Lấy cảm hứng từ màu đỏ/cam trong ảnh -->
+<!-- Dự án 1 -->
 <table>
   <tr>
     <td width="60%">
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-<!-- Dự án 2: Lấy cảm hứng từ màu xanh lá/xanh dương trong ảnh -->
+<!-- Dự án 2:  -->
 <table>
   <tr>
     <td width="40%" align="center">
@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-<!-- Dự án 3: Lấy cảm hứng từ màu tím/hồng trong ảnh -->
+<!-- Dự án 3:  -->
 <table>
   <tr>
     <td width="60%">
@@ -107,6 +107,21 @@
     <td width="40%" align="center">
       <!-- Phần màu tím từ ảnh của bạn -->
       <img src="https://i.imgur.com/ghi789purple.jpg" width="200" style="border-radius: 10px; border: 2px solid #9B59B6;">
+    </td>
+  </tr>
+</table>
+<!-- Dự án 4-->
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Phần màu xanh từ ảnh của bạn -->
+      <img src="https://i.imgur.com/def456blue.jpg" width="200" style="border-radius: 10px; border: 2px solid #4ECDC4;">
+    </td>
+    <td width="60%">
+      <h3> Project Name 2 - Marker Collection</h3>
+      <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designs.</p>
+      <p><strong>Tech stack:</strong> Figma, Adobe Color, Copic Markers</p>
+      <a href="#">🔗 View Project →</a>
     </td>
   </tr>
 </table>
