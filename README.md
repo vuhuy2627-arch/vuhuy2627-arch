@@ -71,7 +71,7 @@
   <tr>
     <td width="70%">
       <h3>Project Name 1 - Color Study</h3>
-      <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
+      <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique storyvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.</p>
       <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
       <a href="#">🔗 View Project →</a>
     </td>
@@ -121,7 +121,7 @@
     </td>
     <td width="70%">
       <h3> Project Name 2 - Marker Collection</h3>
-      <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designs.</p>
+      <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designsvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.</p>
       <p><strong>Tech stack:</strong> Figma, Adobe Color, Copic Markers</p>
       <a href="#">🔗 View Project →</a>
     </td>
