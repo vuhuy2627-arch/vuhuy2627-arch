@@ -66,13 +66,13 @@
 <!-- Dự án 1 -->
 <table>
   <tr>
-    <td width="80%">
+    <td width="60%">
       <h3> Project Name 1 - Color Study</h3>
       <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
       <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
       <a href="#">🔗 View Project →</a>
     </td>
-    <td width="60%" align="center">
+    <td width="80%" align="center">
       <!-- Phần màu đỏ/cam từ ảnh của bạn -->
       <img src="https://i.imgur.com/abc123red.jpg" width="200" style="border-radius: 10px; border: 2px solid #FF6B6B;">
     </td>
