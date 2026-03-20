@@ -99,7 +99,7 @@
   <tr>
     <td width="60%">
       <h3> Project Name 3 - Watercolor Dreams</h3>
-      <p>You can explore my full marker collection at the top right corner. The numbers 5-30 represent my favorite shades.</p>
+      <p>You can explore my full marker collection at the top right corner. The numbers 5-30 represent my favorite shadesvvvvvvvvvvvvvvvvvvvvvvvvvvvv.</p>
       <p><strong>Tech stack:</strong> Photoshop, Watercolor Techniques, Color Theory</p>
       <a href="#">🔗 View Project →</a>
     </td>
