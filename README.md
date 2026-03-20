@@ -64,17 +64,20 @@
 <!-- https://icons8.com -->
 
 <!-- Dự án 1 -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="width: 75%;">
-    <h3>Project Name 1 - Color Study</h3>
-    <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
-    <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
-    <a href="#">🔗 View Project →</a>
-  </div>
-  <div style="width: 20%; text-align: center;">
-    <img src="https://i.imgur.com/abc123red.jpg" width="150" style="border-radius: 10px; border: 2px solid #FF6B6B;">
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td width="80%">
+      <h3>Project Name 1 - Color Study</h3>
+      <p>I created this year-round project to explore the beautiful palette of watercolor markers. Each color tells a unique story.</p>
+      <p><strong>Tech stack:</strong> Adobe Illustrator, Procreate, Watercolor Markers</p>
+      <a href="#">🔗 View Project →</a>
+    </td>
+    <td width="20%" align="center">
+      <!-- Phần màu đỏ/cam từ ảnh của bạn -->
+      <img src="https://i.imgur.com/abc123red.jpg" width="150" style="border-radius: 10px; border: 2px solid #FF6B6B;">
+    </td>
+  </tr>
+</table>
 <!-- Dự án 2:  -->
 <table>
   <tr>
