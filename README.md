@@ -87,7 +87,7 @@
     </td>
     <td width="70%">
       <h3> Project Name 2 - Marker Collection</h3>
-      <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designs.</p>
+      <p>This is just a small part of my marker collection. Each shade from W D V Z Z inspires my daily designsvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.</p>
       <p><strong>Tech stack:</strong> Figma, Adobe Color, Copic Markers</p>
       <a href="#">🔗 View Project →</a>
     </td>
